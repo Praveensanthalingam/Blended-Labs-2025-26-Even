@@ -70,6 +70,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** POOJA PRIYA.B and (212224230196)
-**Course:** Introduction to Cloud Computing  
+**Name:** PRAVEEN SANTHALINGAM M and (212224040246)
+**Course:** Introduction to Cloud Computing (BLENDED) 
 
